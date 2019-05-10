@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Sobre mi :)
 
-### More Information
+Ante todo, buen dia. Me llamo Gaston y soy un desarrollador web y estudiante de Ingenieria Electronica. Emprendi este blog como un lugarcito donde poder expresar mis ideas.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[me@gastongraciani.me](mailto:me@gastongraciani.me)
