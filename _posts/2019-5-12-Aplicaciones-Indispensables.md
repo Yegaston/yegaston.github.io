@@ -23,13 +23,9 @@ Mi herramienta preferida para editar código es sin duda alguna el Visual Studio
 
 ### 2) Aplicaciones de Chat y comunicación.
 
-Esta parte es muy complicada, por que en ultimo tiempo, aparecieron herramientas muy buenas para ocupar este apartado. Asique voy a nombrar las 5 herramientas, que siento que se complementan entre si.
-
-
+Esta parte es muy complicada, por que en ultimo tiempo, aparecieron herramientas muy buenas para ocupar este apartado. 
 
 ![Discord](<https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Discord_screenshot.png/300px-Discord_screenshot.png>)
-
-
 
 1 - [Discord](https://discordapp.com/): Se promociona como, "Chat de texto y voz gratis para gamers", pero sin duda es algo mas, Chat por voz super potente, y fiable. API Publica para el desarrollo de Plugins. Organización por canales y salas, la posibilidad de videochat, y compartir tu escritorio. Por ejemplo, en discord tengo un canal con conocidos, donde compartimos recursos, ya sea de matemática, física, programación, etc. La cantidad de plugins sin duda es lo que hace tan potente a discord. Sin duda es la mejor alternativa a Slack y inclusive a Zoom.
 
@@ -81,7 +77,7 @@ Acá no hay muchas sorpresas. Todo se basa en [Spotify](https://www.spotify.com/
 
 El mejor editor de Markdown que existe. Este articulo lo estoy escribiendo desde el.
 
-Super liviano y intuitivo. El uso que le doy es es principalmente para escribir los README de los proyectos que subo a github. O para leer libros que están en markdown. (Si, se esta poniendo en moda Markdown, y no me molesta en lo mas mínimo.)
+Super liviano y intuitivo. El uso que le doy es es principalmente para escribir los README de los proyectos que subo a github. O para leer libros que estén en .md . (Si, se esta poniendo demoda, y no me molesta en lo mas mínimo.)
 
 
 
